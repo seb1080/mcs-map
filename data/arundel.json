@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arundel",
+        "label_fr": "Arundel"
+      },
+      "geometry": {
+        "coordinates": [-74.616091, 45.967715],
+        "type": "Point"
+      }
+    }
+  ]
+}

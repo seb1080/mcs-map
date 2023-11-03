@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "start",
+        "label_fr": "Départ"
+      },
+      "geometry": {
+        "coordinates": [-74.6168176302792, 46.020951517805656],
+        "type": "Point"
+      }
+    }
+  ]
+}
