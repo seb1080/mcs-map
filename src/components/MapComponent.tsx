@@ -14,7 +14,7 @@ useEffect(() => {
     if (map.current) return; // initialize map only once
 
     map.current = new mapboxgl.Map({
-      container: mapContainer.current,
+      container: mapContainer.current as unknown as HTMLElement,
       style: 'mapbox://styles/mapbox/streets-v12',
       center: [lng, lat],
       zoom: zoom
