@@ -1,8 +1,7 @@
 import './App.css'
 import MapComponent from './components/MapComponent'
 
-function App() {
-
+export default function App() {
   return (
     <>
       <div>
@@ -11,5 +10,3 @@ function App() {
     </>
   )
 }
-
-export default App
