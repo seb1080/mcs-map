@@ -5,6 +5,7 @@ export default function App() {
   return (
     <>
       <div>
+        <h1 className='p-4 bg-red'>Nouveau titre</h1>
         <MapComponent />
       </div>
     </>
