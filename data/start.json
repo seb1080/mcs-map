@@ -8,7 +8,7 @@
         "label_fr": "Départ"
       },
       "geometry": {
-        "coordinates": [-74.6168176302792, 46.020951517805656],
+        "coordinates": [-74.6168176, 46.0209515],
         "type": "Point"
       }
     }
